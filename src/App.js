@@ -28,5 +28,6 @@ function App() {
       </Switch>
     </Layout>
   );
-};
+}
+
 export default App;
