@@ -4,7 +4,6 @@ import Comments from '../components/comments/Comments';
 
 const QuoteDetail = () => {
   const params = useParams();
-
   return (
     <Fragment>
       <h1>Quote Detail Page</h1>
